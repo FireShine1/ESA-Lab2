@@ -1,0 +1,157 @@
+body{
+	color: #29215A;
+	padding: 0;
+	margin: 0 auto;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	width: 1600px;
+
+}
+table{
+	border-style: solid;
+	border-width: thin;
+    border-collapse: collapse;
+	width: 1427px;
+	margin-left: 109px;
+	margin-bottom: 35px;
+	
+}
+
+th,tr,td{
+	border-style: solid ;
+	border-width: thin;
+	height: 45px;
+
+}
+.td-but{
+	width: 185px;
+}
+.buttongroup{
+	margin-top: 35px;
+	width: 410px;
+	
+	margin-left:109px;
+	padding-bottom: 35px;
+	justify-content: space-between;
+	display: inline-flex;
+
+}
+.btn{
+	text-align: center;
+	
+	width: 183px;
+	height: 45px;
+	background: #C7C7F5;
+	
+	font-size: 20px;
+	border: 0;
+	box-shadow: 0 3px 6px rgba(95,95,127,0.47);
+}
+.btn-Add{
+	
+	margin-bottom: 27px;
+	margin-left: 660px;
+	font-size: 40px;
+	width: 280px;
+	height: 87px;
+
+}
+.wrapper{
+	margin-left: 1185px;
+	width: 376px;
+	justify-content: space-between;
+
+}
+
+
+.Search{
+	width: 1427px;
+	margin-left: 109px;
+	padding-bottom: 35px;
+	justify-content: space-between;
+}
+
+.buttongroup-search{
+	margin-top: 0;
+	padding-bottom: 0;
+	margin-left: 60px;
+}
+.btn-search{
+	font-size: 16px;
+	height: 35px;
+
+
+}
+
+input{
+
+	font-size: 16px;
+	color: #29215A;
+	width:318px;
+	height: 35px;
+	margin-right: 20px;
+
+}
+input::-webkit-input-placeholder {
+	color: rgba(41,33,90,0.4);
+	padding-left: 26px;
+}
+
+
+
+.form{
+	margin-top: 74px;
+	background: #F1F1FF;
+	width: 710px;
+	margin-left:  472px;
+	box-shadow: 0 3px 6px rgba(95,95,127,0.47);
+}
+
+
+h2{
+	font-size: 35px;
+	color: #29215A;
+	text-align: center;
+	padding-top: 40px;
+	margin-bottom: 40px;
+
+}
+
+.input-dish{
+	height: 60px;
+	width: 540px;
+	margin-left: 97px;
+	margin-bottom: 38px;
+	display: block;
+}
+
+.buttongroup-form{
+	margin-left: 170px;
+	padding-bottom: 38px;
+	margin-top: 0;
+}
+
+.label-form{
+	margin-left: 300px;
+	font-size: 20px;
+	
+
+}
+
+select{
+	margin-top: 20px;
+	height: 60px;
+	width: 540px;
+	margin-left: 97px;
+	margin-bottom: 38px;
+	display: block;
+
+}
+option{
+	height: 60px;
+	padding-left: 26px;
+	padding-top: 10px;
+	font-size: 16px;
+	color: #29215A;
+
+}

@@ -5,7 +5,8 @@
 Prerequisites  
 -------------
 * JDK8
-* Maven 3
--------------
+* Maven 3  
+
 Запуск:  
+-------------  
 mvn spring-boot:run
